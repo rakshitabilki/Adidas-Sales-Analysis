@@ -26,18 +26,6 @@ This dashboard helps analyze sales trends and business performance using the Adi
 
 ---
 
-## 📈 Key Insights
-
-- Generated **$900M** in Total Sales.
-- Achieved **$332M** Operating Profit.
-- Sold approximately **2 Million** units.
-- Maintained an Operating Margin of **42%**.
-- Peak sales were recorded during **July**.
-- The **West** region contributed the highest sales.
-- Men's Street Footwear was the top-performing product category.
-
----
-
 
 ## 🚀 How to Use
 
