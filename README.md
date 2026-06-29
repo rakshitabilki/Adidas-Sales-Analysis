@@ -25,15 +25,6 @@ This dashboard helps analyze sales trends and business performance using the Adi
 - **Source:** Kaggle (Public Dataset)
 
 ---
-## 📷 Dashboard Preview
-
-<p align="center">
-  <img src="<img width="1000" height="539" alt="adidas sales dashboard" src="https://github.com/user-attachments/assets/790e81cb-236b-4707-9da8-d488bd4ec2b0" />
-" alt="Adidas Sales Dashboard" width="1000">
-</p>
-```
-
----
 
 ## 📈 Key Insights
 
